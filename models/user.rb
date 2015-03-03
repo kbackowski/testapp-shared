@@ -18,5 +18,9 @@ class User < ActiveRecord::Base
   def test4
     'test4'
   end
+
+  def test5
+    'test5'
+  end
 end
 
