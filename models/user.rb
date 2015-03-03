@@ -6,5 +6,9 @@ class User < ActiveRecord::Base
   def test
     'test'
   end
+
+  def test2
+    'test2'
+  end
 end
 
