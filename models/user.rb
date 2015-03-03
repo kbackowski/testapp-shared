@@ -10,5 +10,9 @@ class User < ActiveRecord::Base
   def test2
     'test2'
   end
+
+  def test3
+    'test3'
+  end
 end
 
